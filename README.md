@@ -90,6 +90,31 @@ J’ai élargi mes compétences avec **Flutter** et **FastAPI**, pour créer des
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerTheophile2000&layout=compact&locale=fr&theme=radical" alt="Langages les plus utilisés" />
 </p>
 
+<!-- 
+---
+
+### 🚀 Projets en vedette
+
+- 🔗 [Maze House 🏠](https://github.com/rogerTheophile2000/maze-house)  
+  Application immobilière intelligente avec traçabilité fiscale pour la RDC.
+
+- 🤖 [LLM Finance RDC 💰](https://github.com/rogerTheophile2000/llm-finance-rdc)  
+  Modèle de langage pour l’analyse et l’inclusion financière en RDC.
+
+- 📦 [API REST avec Django & FastAPI](https://github.com/rogerTheophile2000/api-rest-django-fastapi)  
+  Backends performants pour applications web et mobiles.
+
+-->
+
+---
+
+### 🌐 Me retrouver ailleurs
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogerTheophile/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogerbiringanine2000@gmail.com)
+
+
+
 
 
 
