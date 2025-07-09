@@ -22,9 +22,9 @@ J’ai élargi mes compétences avec **Flutter** et **FastAPI**, pour créer des
 
 ---
 
-<div>
+<div width="100%">
   <h2 align="center">🛠️ Stack & Compétences techniques</h2>
-  <table align="center">
+  <table align="center" width="100%">
     <tr>
       <td align="center" width="50%">
         <h3>🎨 Frontend</h3>
@@ -77,6 +77,18 @@ J’ai élargi mes compétences avec **Flutter** et **FastAPI**, pour créer des
     </tr>
   </table>
 </div>
+
+---
+
+### 📈 Mes statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rogerTheophile2000&show_icons=true&locale=fr&theme=radical" alt="Stats GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerTheophile2000&layout=compact&locale=fr&theme=radical" alt="Langages les plus utilisés" />
+</p>
 
 
 
