@@ -126,59 +126,58 @@ J’ai élargi mes compétences avec **Flutter** et **FastAPI**, pour créer des
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogerTheophile/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogerbiringanine2000@gmail.com)
 
----
 
-<h2 align="center">🎓 Certificats & formations</h2>
+<h2 align="center">🎓 Certificats & Formations</h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; max-width: 1000px; margin: auto;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; max-width: 1000px; margin: 0 auto;">
 
-  <!-- Flutter -->
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" alt="Flutter" />
-    <h4>Certification Flutter</h4>
-    <p style="font-size: 14px; color: #666;">Dclic.fr</p>
+  <!-- Python -->
+  <div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 15px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+    <h4>Formation Python</h4>
+    <p>Udemy</p>
+  </div>
+
+  <!-- Django -->
+  <div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 15px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" />
+    <h4>Django & DRF</h4>
+    <p>Udemy</p>
   </div>
 
   <!-- FastAPI -->
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI" />
-    <h4>Formation APIs REST</h4>
-    <p style="font-size: 14px; color: #666;">Formation en ligne</p>
+  <div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 15px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" />
+    <h4>FastAPI & APIs REST</h4>
+    <p>Formation en ligne</p>
   </div>
 
-  <!-- Django / DRF -->
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" alt="Django" />
-    <h4>Formation Django & DRF</h4>
-    <p style="font-size: 14px; color: #666;">Udemy</p>
-  </div>
-
-  <!-- Python -->
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
-    <h4>Formation Python</h4>
-    <p style="font-size: 14px; color: #666;">Udemy</p>
+  <!-- Flutter -->
+  <div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 15px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
+    <h4>Certification Flutter</h4>
+    <p>Dclic.fr</p>
   </div>
 
   <!-- React -->
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
+  <div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 15px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
     <h4>Formation React</h4>
-    <p style="font-size: 14px; color: #666;">Udemy</p>
+    <p>Udemy</p>
   </div>
 
   <!-- IA -->
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="IA" />
-    <h4>IA & NLP</h4>
-    <p style="font-size: 14px; color: #666;">Auto-formation</p>
+  <div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 15px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" />
+    <h4>Intelligence Artificielle</h4>
+    <p>Auto-formation / MOOC</p>
   </div>
 
-  <!-- Université -->
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center;">
-    <img src="https://img.icons8.com/ios-filled/50/university.png" width="50" alt="Université" />
+  <!-- Licence -->
+  <div style="border: 1px solid #eaeaea; border-radius: 10px; padding: 15px; text-align: center;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="50" />
     <h4>Licence en Génie Informatique</h4>
-    <p style="font-size: 14px; color: #666;">ULPGL, Goma</p>
+    <p>ULPGL Goma</p>
   </div>
 
 </div>
