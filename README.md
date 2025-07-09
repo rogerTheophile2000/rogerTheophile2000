@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Salut 👋, je suis Roger Biringanine</h1>
+<h3 align="center">Développeur Full-Stack 💻 | Django ⚙️ • React ⚛️ • Flutter 📱 | IA 🤖 | FastAPI 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rogerTheophile2000&label=Vues%20du%20profil&color=blue&style=flat" alt="Profil viewers" />
+</p>
 
 <!--
 **rogerTheophile2000/rogerTheophile2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
