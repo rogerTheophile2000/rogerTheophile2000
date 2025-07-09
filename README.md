@@ -80,15 +80,15 @@ J’ai élargi mes compétences avec **Flutter** et **FastAPI**, pour créer des
 
 ---
 
-### 📈 Mes statistiques GitHub
+<h2 align="center">📈 Mes statistiques GitHub</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogerTheophile2000&show_icons=true&locale=fr&theme=radical" alt="Stats GitHub" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerTheophile2000&layout=compact&locale=fr&theme=radical" alt="Langages les plus utilisés" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rogerTheophile2000&show_icons=true&locale=fr&theme=radical" alt="Stats GitHub" width="420" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerTheophile2000&layout=compact&locale=fr&theme=radical" alt="Langages les plus utilisés" width="320" />
+
+</div>
 
 <!-- 
 ---
