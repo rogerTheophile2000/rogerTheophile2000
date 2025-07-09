@@ -128,17 +128,63 @@ J’ai élargi mes compétences avec **Flutter** et **FastAPI**, pour créer des
 
 ---
 
-### 🎓 Certificats & formations
+<h2 align="center">🎓 Certificats & formations</h2>
 
-- **Licence en Génie Informatique** — Université Libre des Pays des Grands Lacs (ULPGL), Goma  
-- **Certification Flutter** — Dclic.fr  
-- **Formation FastAPI & APIs REST** — Formation en ligne  
-- **Formations Django et DRF** — Udemy  
-- **Formation Python** — Udemy  
-- **Formation React** — Udemy  
-- **Formation Intelligence Artificielle (IA)** — Auto-formation et cours en ligne  
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; max-width: 1000px; margin: auto;">
+
+  <!-- Flutter -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" alt="Flutter" />
+    <h4>Certification Flutter</h4>
+    <p style="font-size: 14px; color: #666;">Dclic.fr</p>
+  </div>
+
+  <!-- FastAPI -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI" />
+    <h4>Formation APIs REST</h4>
+    <p style="font-size: 14px; color: #666;">Formation en ligne</p>
+  </div>
+
+  <!-- Django / DRF -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" alt="Django" />
+    <h4>Formation Django & DRF</h4>
+    <p style="font-size: 14px; color: #666;">Udemy</p>
+  </div>
+
+  <!-- Python -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
+    <h4>Formation Python</h4>
+    <p style="font-size: 14px; color: #666;">Udemy</p>
+  </div>
+
+  <!-- React -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
+    <h4>Formation React</h4>
+    <p style="font-size: 14px; color: #666;">Udemy</p>
+  </div>
+
+  <!-- IA -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="IA" />
+    <h4>IA & NLP</h4>
+    <p style="font-size: 14px; color: #666;">Auto-formation</p>
+  </div>
+
+  <!-- Université -->
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center;">
+    <img src="https://img.icons8.com/ios-filled/50/university.png" width="50" alt="Université" />
+    <h4>Licence en Génie Informatique</h4>
+    <p style="font-size: 14px; color: #666;">ULPGL, Goma</p>
+  </div>
+
+</div>
 
 ---
+
 <div align="center">
 <h3 align="center">✨ Citation inspirante</h3>
 
