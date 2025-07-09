@@ -126,7 +126,7 @@ J’ai élargi mes compétences avec **Flutter** et **FastAPI**, pour créer des
 - **Formation Intelligence Artificielle (IA)** — Auto-formation et cours en ligne  
 
 ---
-
+<div align="center">
 <h3 align="center">✨ Citation inspirante</h3>
 
 <blockquote style="font-style: italic; color: #555; max-width: 600px; margin: 10px auto; text-align: center;">
@@ -135,6 +135,17 @@ J’ai élargi mes compétences avec **Flutter** et **FastAPI**, pour créer des
   <strong>– Roger Biringanine</strong>
 </blockquote>
 
+</div>
+
+---
+
+### 🤝 Disponibilités & collaborations
+
+Je suis actuellement ouvert à de nouvelles opportunités de collaboration, que ce soit pour des projets innovants, du développement Full-Stack, des missions en IA ou du conseil technique.
+
+N’hésitez pas à me contacter via LinkedIn ou par email pour discuter de vos besoins ou propositions de partenariat.
+
+---
 
 
 
