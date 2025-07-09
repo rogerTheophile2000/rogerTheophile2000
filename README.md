@@ -20,3 +20,40 @@ J’ai élargi mes compétences avec **Flutter** et **FastAPI**, pour créer des
 
 📫 Contact : **rogerbiringanine2000@gmail.com**
 
+---
+
+### 🛠️ Stack & Compétences techniques
+
+#### 🧠 Backend
+- Django / Django REST Framework
+- FastAPI
+- Authentification (JWT, OAuth2)
+- PostgreSQL, SQLite
+
+#### 🎨 Frontend
+- React.js
+- HTML5, CSS3, TailwindCSS, Bootstrap
+
+#### 📱 Développement mobile
+- Flutter (Dart)
+
+#### 🤖 Intelligence Artificielle & Data
+- Python (NLP, LLM, Data Processing)
+- TensorFlow, Keras
+- Pandas, NumPy, Scikit-learn
+
+#### 🧰 Outils & DevOps
+- Git & GitHub
+- Docker
+- VS Code, Postman, Figma
+- Photoshop, Illustrator, InDesign
+
+#### 💬 Langages de programmation
+- Python 🐍
+- JavaScript ⚡
+- Dart 💙
+- C#
+
+
+
+
