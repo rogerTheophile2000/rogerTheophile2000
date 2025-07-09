@@ -113,6 +113,17 @@ J’ai élargi mes compétences avec **Flutter** et **FastAPI**, pour créer des
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogerTheophile/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogerbiringanine2000@gmail.com)
 
+---
+
+### 🎓 Certificats & formations
+
+- **Licence en Génie Informatique** — Université Libre des Pays des Grands Lacs (ULPGL), Goma  
+- **Certification Flutter** — Dclic.fr  
+- **Formation FastAPI & APIs REST** — Formation en ligne  
+- **Formations Django et DRF** — Udemy  
+- **Formation Python** — Udemy  
+- **Formation React** — Udemy  
+- **Formation Intelligence Artificielle (IA)** — Auto-formation et cours en ligne  
 
 
 
