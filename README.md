@@ -80,7 +80,7 @@ J’ai élargi mes compétences avec **Flutter** et **FastAPI**, pour créer des
 
 ---
 
-<h2 align="center">📈 Mes statistiques GitHub</h2>
+<h2 align="center">📊 Activité GitHub</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
@@ -89,6 +89,19 @@ J’ai élargi mes compétences avec **Flutter** et **FastAPI**, pour créer des
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerTheophile2000&layout=compact&locale=fr&theme=radical" alt="Langages les plus utilisés" width="320" />
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rogerTheophile2000&theme=radical&locale=fr" alt="Streak GitHub" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rogerTheophile2000&theme=radical" alt="Résumé GitHub" />
+</div>
+
 
 <!-- 
 ---
