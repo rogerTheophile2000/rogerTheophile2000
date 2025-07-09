@@ -125,6 +125,15 @@ J’ai élargi mes compétences avec **Flutter** et **FastAPI**, pour créer des
 - **Formation React** — Udemy  
 - **Formation Intelligence Artificielle (IA)** — Auto-formation et cours en ligne  
 
+---
+
+<h3 align="center">✨ Citation inspirante</h3>
+
+<blockquote style="font-style: italic; color: #555; max-width: 600px; margin: 10px auto; text-align: center;">
+  « La technologie est un puissant levier pour transformer des idées en réalités,<br />
+  et c’est en apprenant chaque jour que l’on crée l’avenir. »<br />
+  <strong>– Roger Biringanine</strong>
+</blockquote>
 
 
 
