@@ -131,7 +131,7 @@ J’ai élargi mes compétences avec **Flutter** et **FastAPI**, pour créer des
 
 <h2 align="center">🎓 Certificats & Formations</h2>
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px; max-width: 600px; margin: auto;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- Python -->
   <div style="width: 100%; border: 1px solid #eaeaea; border-radius: 10px; padding: 15px; text-align: center;">
