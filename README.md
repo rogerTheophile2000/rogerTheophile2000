@@ -112,36 +112,6 @@
 
 ---
 
-<h2 align="center">📊 Activité GitHub</h2>
-
-<!-- Bloc 1 : Stats + Langages -->
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; width: 100%; justify-items: center;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rogerTheophile2000&show_icons=true&locale=fr&theme=radical" alt="Stats GitHub" style="width: 90%;" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerTheophile2000&layout=compact&locale=fr&theme=radical" alt="Langages les plus utilisés" style="width: 90%;" />
-
-</div>
-
-<br/>
-
-<!-- Bloc 2 : Streak + Wakatime -->
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; width: 100%; justify-items: center;">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rogerTheophile2000&theme=radical&locale=fr" alt="Streak GitHub" style="width: 90%;" />
-  
-  <img src="https://wakatime.com/share/@rogerTheophile2000/7df1094c-51e9-44a8-b33d-dc6a4b7deebb.svg" alt="Wakatime Stats" style="width: 90%;" />
-
-</div>
-
-<br/>
-
-<!-- Bloc 3 : Résumé -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rogerTheophile2000&theme=radical" alt="Résumé GitHub" style="width: 90%;" />
-
-</div>
-
 <!--
 
 ### 🚀 Projets en vedette
