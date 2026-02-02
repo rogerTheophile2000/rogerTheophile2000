@@ -60,20 +60,6 @@ Always learning, always building, and always interested in meaningful technical 
 
 ---
 
-## ⚙️ Tech Stack
-
-```
-Backend           Python | Django | Django REST Framework | FastAPI | Java | Spring Boot
-Frontend          JavaScript | HTML | CSS | React | Next.js
-Databases         PostgreSQL | MySQL | MongoDB | Redis
-DevOps & Infra    Docker | Linux | GitHub Actions
-Desktop Apps      Python | C#
-Design & UI       Figma | Photoshop | Illustrator | InDesign | Canva
-```
-
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack | Status | Focus |
@@ -118,27 +104,3 @@ Design & UI       Figma | Photoshop | Illustrator | InDesign | Canva
 
 
 ---
-
-
-## 📊 GitHub Activity</h2>
-
-<!-- Bloc 1 : Stats + Top Languages -->
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; width: 100%; justify-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogerTheophile2000&show_icons=true&locale=fr&theme=radical" alt="GitHub Stats" style="width: 90%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerTheophile2000&layout=compact&locale=fr&theme=radical" alt="Top Languages" style="width: 90%;" />
-</div>
-
-<br/>
-
-<!-- Bloc 2 : Profile Summary -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rogerTheophile2000&theme=radical" alt="GitHub Summary" style="width: 90%;" />
-</div>
-
-
-
-
-
-
-
-
