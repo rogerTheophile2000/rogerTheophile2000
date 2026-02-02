@@ -60,16 +60,19 @@ Always learning, always building, and always interested in meaningful technical 
 
 ---
 
+
 ## 🚀 Featured Projects
 
 | Project | Description | Stack | Status | Focus |
 |:--------|:------------|:------|:------:|:------|
-| **TotalKlean** | Backend platform for service management and operations. | Django, DRF, PostgreSQL | 🟢 Production | API design, business logic |
-| **JATP** | Business management backend system in real-world use. | `Django`, `DRF`, `PostgreSQL` | 🟢 Production | Scalable backend |
-| **EcoMed** | Medical-oriented backend platform under testing phase. | `Django`, `DRF`, `PostgreSQL`, `Stripe`, `paypal` | 🟡 Testing | Data modeling, APIs |
-| **Fedha AI** | Financial analysis prototype for my undergraduate thesis. | Python, NLP, ML | 🔵 Prototype | AI research, data processing |
-| **amina.culture** | African creative marketplace & collaborative platform for artists. | Djanfo | 🟠 In Progress | Product design, SaaS |
-| **Nadra (Maze House)** | Real estate management and property platform. | Full Stack | 🟠 In Progress | SaaS architecture |
+| **TotalKlean** | Logiciel de gestion pour les stations de lavage. | `Django`, `DRF`, `PostgreSQL` | 🟢 Production | API design, business logic |
+| **JATP** | Gestion du processus de rédaction, révision, approbation et publication des articles scientifiques. | `Django`, `DRF`, `PostgreSQL` | 🟢 Production | Scalable backend |
+| **EcoMed** | Plateforme e-learning en ligne. | `Django`, `DRF`, `PostgreSQL`, `Docker`, `Redis`, `Stripe`, `PayPal` | 🟡 Testing | Data modeling, payment integration |
+| **Fedha AI** | Prototype d'analyse financière pour mon mémoire de fin d'études. | `Python`, `Transformers`, `NLP`, `ML` | 🔵 Prototype | AI research, data processing |
+| **amina.culture** | Marketplace créative africaine et plateforme collaborative pour artistes. | `Django`, `DRF`, `PostgreSQL`, `Docker`, `Next.js` | 🟠 In Progress | Product design, SaaS |
+| **Nadra (Maze House)** | Gestion immobilière et plateforme de location. | `Django`, `DRF`, `PostgreSQL`, `Docker` | 🟠 In Progress | SaaS architecture |
+| **Response SR** | Plateforme numérique intégrée pour le suivi des indicateurs et ressources en santé sexuelle et reproductive (SSR). | `Next.js` | 🟠 In Progress | Digital monitoring, SSR |
+
 
 
 ---
