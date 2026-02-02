@@ -65,14 +65,13 @@ Always learning, always building, and always interested in meaningful technical 
 
 | Project | Description | Stack | Status | Focus |
 |:--------|:------------|:------|:------:|:------|
-| **TotalKlean** | Logiciel de gestion pour les stations de lavage. | `Django`, `DRF`, `PostgreSQL` | 🟢 Production | API design, business logic |
-| **JATP** | Gestion du processus de rédaction, révision, approbation et publication des articles scientifiques. | `Django`, `DRF`, `PostgreSQL` | 🟢 Production | Scalable backend |
-| **EcoMed** | Plateforme e-learning en ligne. | `Django`, `DRF`, `PostgreSQL`, `Docker`, `Redis`, `Stripe`, `PayPal` | 🟡 Testing | Data modeling, payment integration |
-| **Fedha AI** | Prototype d'analyse financière pour mon mémoire de fin d'études. | `Python`, `Transformers`, `NLP`, `ML` | 🔵 Prototype | AI research, data processing |
-| **amina.culture** | Marketplace créative africaine et plateforme collaborative pour artistes. | `Django`, `DRF`, `PostgreSQL`, `Docker`, `Next.js` | 🟠 In Progress | Product design, SaaS |
-| **Nadra (Maze House)** | Gestion immobilière et plateforme de location. | `Django`, `DRF`, `PostgreSQL`, `Docker` | 🟠 In Progress | SaaS architecture |
-| **Response SR** | Plateforme numérique intégrée pour le suivi des indicateurs et ressources en santé sexuelle et reproductive (SSR). | `Next.js` | 🟠 In Progress | Digital monitoring, SSR |
-
+| **TotalKlean** | Management software for car wash stations. | `Django`, `DRF`, `PostgreSQL` | 🟢 Production | API design, business logic |
+| **JATP** | Management of the writing, review, approval, and publication process for scientific articles. | `Django`, `DRF`, `PostgreSQL` | 🟢 Production | Scalable backend |
+| **EcoMed** | Online e-learning platform. | `Django`, `DRF`, `PostgreSQL`, `Docker`, `Redis`, `Stripe`, `PayPal` | 🟡 Testing | Data modeling, payment integration |
+| **Fedha AI** | Financial analysis prototype for my undergraduate thesis. | `Python`, `Transformers`, `NLP`, `ML` | 🔵 Prototype | AI research, data processing |
+| **amina.culture** | African creative marketplace & collaborative platform for artists. | `Django`, `DRF`, `PostgreSQL`, `Docker`, `Next.js` | 🟠 In Progress | Product design, SaaS |
+| **Nadra (Maze House)** | Real estate management and property rental platform. | `Django`, `DRF`, `PostgreSQL`, `Docker` | 🟠 In Progress | SaaS architecture |
+| **Response SR** | Integrated digital platform for monitoring indicators and resources in sexual and reproductive health (SRH). | `Next.js` | 🟠 In Progress | Digital monitoring, SRH |
 
 
 ---
