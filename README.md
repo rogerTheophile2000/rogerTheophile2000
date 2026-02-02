@@ -110,10 +110,14 @@ Design & UI       Figma | Photoshop | Illustrator | InDesign | Canva
   </a>
 
   <img src="https://img.shields.io/badge/Phone-%2B243842304087-555?style=flat-square" />
+</p>
 
+<p align="center">
+💡 I'm always open to new projects, collaborations, and interesting tech challenges. Feel free to reach out!
 </p>
 
 ---
+
 
 
 
