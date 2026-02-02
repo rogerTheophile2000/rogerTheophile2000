@@ -20,3 +20,17 @@ Always learning, always building, and always interested in meaningful technical 
 
 ---
 
+## ⚙️ Tech Stack
+
+```
+Frontend          JavaScript | HTML | CSS | React | Next.js
+Backend           Python | Django | Django REST Framework | FastAPI | Java | Spring Boot
+Databases         PostgreSQL | MySQL | MongoDB | Redis
+DevOps & Infra    Docker | Linux | GitHub Actions
+Desktop Apps      Python | C#
+Design & UI       Figma | Photoshop | Illustrator | InDesign | Canva
+```
+
+
+---
+
