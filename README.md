@@ -10,7 +10,13 @@ Building scalable digital products for African markets and global clients.
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Developer and entrepreneur passionate about building impactful digital products.
-I work on SaaS platforms, marketplace applications, and data-driven systems focused on African markets.
-Currently exploring scalable architectures, AI-powered tools, and startup-oriented solutions. Open to freelance and remote opportunities.
+Software Engineer and entrepreneur focused on building reliable, scalable, and impactful digital products.
+Experienced in designing APIs, backend systems, and full-stack applications that solve real-world problems and operate in production environments.
+I care deeply about clean architecture, performance, and maintainability when transforming business requirements into sustainable software solutions.
+
+Driven by innovation and community impact, I aim to create accessible technologies tailored to African markets while remaining open to global collaborations.
+Always learning, always building, and always interested in meaningful technical challenges.
+
+
+---
 
