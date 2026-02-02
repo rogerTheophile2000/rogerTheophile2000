@@ -130,12 +130,20 @@ Design & UI       Figma | Photoshop | Illustrator | InDesign | Canva
 
 </div>
 
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; width: 100%; justify-items: center;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rogerTheophile2000&show_icons=true&locale=fr&theme=radical" alt="Stats GitHub" style="width: 90%;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerTheophile2000&layout=compact&locale=fr&theme=radical" alt="Top Languages" style="width: 90%;" />
+
+</div>
+
 <br/>
 
 <!-- Bloc 2 : Streak + Wakatime -->
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; width: 100%; justify-items: center;">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rogerTheophile2000&theme=radical&locale=fr" alt="GitHub Streak" style="width: 90%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rogerTheophile2000&theme=radical&locale=fr" alt="Streak GitHub" style="width: 90%;" />
   
   <img src="https://wakatime.com/share/@rogerTheophile2000/7df1094c-51e9-44a8-b33d-dc6a4b7deebb.svg" alt="Wakatime Stats" style="width: 90%;" />
 
