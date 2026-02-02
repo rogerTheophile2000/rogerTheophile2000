@@ -34,3 +34,15 @@ Design & UI       Figma | Photoshop | Illustrator | InDesign | Canva
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Status | Focus |
+|:--------|:------------|:------|:------:|:------|
+| **TotalKlean** | Backend platform for service management and operations. | Django, DRF, PostgreSQL | 🟢 Production | API design, business logic |
+| **JATP** | Business management backend system in real-world use. | `Django`, `DRF`, `PostgreSQL` | 🟢 Production | Scalable backend |
+| **EcoMed** | Medical-oriented backend platform under testing phase. | `Django`, `DRF`, `PostgreSQL`, `Stripe`, `paypal` | 🟡 Testing | Data modeling, APIs |
+| **Fedha AI** | Financial analysis prototype for my undergraduate thesis. | Python, NLP, ML | 🔵 Prototype | AI research, data processing |
+| **amina.culture** | African creative marketplace & collaborative platform for artists. | Djanfo | 🟠 In Progress | Product design, SaaS |
+| **Nadra (Maze House)** | Real estate management and property platform. | Full Stack | 🟠 In Progress | SaaS architecture |
+
+
