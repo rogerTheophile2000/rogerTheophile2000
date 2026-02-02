@@ -63,8 +63,8 @@ Always learning, always building, and always interested in meaningful technical 
 ## ⚙️ Tech Stack
 
 ```
-Frontend          JavaScript | HTML | CSS | React | Next.js
 Backend           Python | Django | Django REST Framework | FastAPI | Java | Spring Boot
+Frontend          JavaScript | HTML | CSS | React | Next.js
 Databases         PostgreSQL | MySQL | MongoDB | Redis
 DevOps & Infra    Docker | Linux | GitHub Actions
 Desktop Apps      Python | C#
@@ -86,6 +86,34 @@ Design & UI       Figma | Photoshop | Illustrator | InDesign | Canva
 | **Nadra (Maze House)** | Real estate management and property platform. | Full Stack | 🟠 In Progress | SaaS architecture |
 
 
+---
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:rogetheophile2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rogetheophile2000%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/roger-mushagalusa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Roger%20Mushagalusa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/rogerTheophile2000">
+    <img src="https://img.shields.io/badge/GitHub-rogerTheophile2000-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/243979322112">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B243979322112-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Phone-%2B243842304087-555?style=flat-square" />
+
+</p>
+
+---
 
 
 
