@@ -100,6 +100,22 @@ Always learning, always building, and always interested in meaningful technical 
 </p>
 
 
+
+
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Status | Focus |
+|:--------|:------------|:------|:------:|:------|
+| **TotalKlean** | Management software for car wash stations. | `Django`, `DRF`, `PostgreSQL` | 🟢 Production | API design, business logic |
+| **JATP** | Management of the writing, review, approval, and publication process for scientific articles. | `Django`, `DRF`, `PostgreSQL` | 🟢 Production | Scalable backend |
+| **EcoMed** | Online e-learning platform. | `Django`, `DRF`, `PostgreSQL`, `Docker`, `Redis`, `Stripe`, `PayPal` | 🟡 Testing | Data modeling, payment integration |
+| **Fedha AI** | Financial analysis prototype for my undergraduate thesis. | `Python`, `Transformers`, `NLP`, `ML` | 🔵 Prototype | AI research, data processing |
+| **amina.culture** | African creative marketplace & collaborative platform for artists. | `Django`, `DRF`, `PostgreSQL`, `Docker`, `Next.js` | 🟠 In Progress | Product design, SaaS |
+| **Nadra (Maze House)** | Real estate management and property rental platform. | `Django`, `DRF`, `PostgreSQL`, `Docker` | 🟠 In Progress | SaaS architecture |
+| **Response SR** | Integrated digital platform for monitoring indicators and resources in sexual and reproductive health (SRH). | `Next.js` | 🟠 In Progress | Digital monitoring, SRH |
+
+
 ---
 
 ## 📫 Contact
