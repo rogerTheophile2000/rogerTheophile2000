@@ -114,6 +114,7 @@ Always learning, always building, and always interested in meaningful technical 
 | **amina.culture** | African creative marketplace & collaborative platform for artists. | `Django`, `DRF`, `PostgreSQL`, `Docker`, `Next.js` | 🟠 In Progress | Product design, SaaS |
 | **Nadra (Maze House)** | Real estate management and property rental platform. | `Django`, `DRF`, `PostgreSQL`, `Docker` | 🟠 In Progress | SaaS architecture |
 | **Response SR** | Integrated digital platform for monitoring indicators and resources in sexual and reproductive health (SRH). | `Next.js` | 🟠 In Progress | Digital monitoring, SRH |
+ **Athemio** |Integrated digital platform for the encyclopedia of African countries, focusing first on national anthems. | `Next.js` `supabase` | 🟠 Testing | Anthems, Culture |
 
 
 ---
